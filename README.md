@@ -1,4 +1,4 @@
-# HacktoberFest 2023 `OPEN FIRST` Pull Request 🎉 
+# HacktoberFest 2024 `OPEN FIRST` Pull Request 🎉 
 
 ## This Repository is Excluded from Hacktoberfest
 
